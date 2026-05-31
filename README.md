@@ -1,5 +1,5 @@
 # Claude-AI-Simple-Web-App
-Use Claude Code to build a fully working web app with search, categories, dark mode, and more — all by typing plain English.
+App protoyping with Claude Code. Use Claude Code to build a fully working web app with search, categories, dark mode, and more — all by typing plain English.
 
 📋 PROMPT 1: Build the Bookmark App
 
@@ -17,12 +17,7 @@ Make it look modern and clean with a blue color scheme
 Let me delete bookmarks I don't want anymore
 Make it responsive so it works on mobile too
 
-📋 PROMPT 2: Open the App
-
-(After Claude finishes building)
-Open the app in my browser so I can see it
-
-📋 PROMPT 3: Add New Features
+📋 PROMPT 2: Add New Features
 
 (To add edit and dark mode)
 Can you add two more features to the bookmark app:
